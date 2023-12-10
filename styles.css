@@ -92,10 +92,12 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  width: 26%;
 }
 
 .contact-info__block--center {
   justify-content: center;
+  width: unset;
 }
 
 .contact-info__item {
